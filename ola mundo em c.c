@@ -1,4 +1,4 @@
 #include<iostream>
-int main(){
-	printf("ola mundo");
+   int main(){
+      printf("ola mundo");
 }
